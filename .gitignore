@@ -1,0 +1,50 @@
+# =========================
+# Python
+# =========================
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Environment
+# =========================
+.env
+*.env
+
+# =========================
+# Node
+# =========================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# Backend data
+# Ignore everything under backend/data
+# =========================
+backend/data/*
+
+# Keep processed data
+!backend/data/processed/
+!backend/data/processed/**
+
+# Keep synthetic folder
+!backend/data/synthetic/
+
+# Ignore everything in synthetic
+backend/data/synthetic/*
+
+# Keep only this file
+!backend/data/synthetic/synthetic_income_arrival.csv
+
+# Ignore raw datasets
+backend/data/raw/
+
+# Logs
+main_run_log.txt
