@@ -14,16 +14,6 @@
 </p>
 
 ---
-## 🚀 Live Demo
-
-### 🌐 Frontend (Vercel)
-**https://predeliquencysystem.vercel.app/**
-
-### ⚡ Backend API (Render)
-**https://pre-deliquency.onrender.com/**
-
-### 📖 API Documentation (Swagger UI)
-**https://pre-deliquency.onrender.com/docs**
 
 ## Overview
 
@@ -380,6 +370,16 @@ For a mid-sized retail bank managing a representative portfolio:
 - **Interactive Agent Workspace** — Conversational query-and-response interfaces for RMs via expanded LangGraph workflow
 
 ---
+## 🚀 Live Demo
+
+### 🌐 Frontend (Vercel)
+**https://predeliquencysystem.vercel.app/**
+
+### ⚡ Backend API (Render)
+**https://pre-deliquency.onrender.com/**
+
+### 📖 API Documentation (Swagger UI)
+**https://pre-deliquency.onrender.com/docs**
 
 ## License
 
